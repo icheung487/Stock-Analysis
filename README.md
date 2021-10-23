@@ -4,5 +4,7 @@
 
 ## Results
 
+![](Theater_Outcomes_vs_Launch.png)
+
 ## Summary
 
